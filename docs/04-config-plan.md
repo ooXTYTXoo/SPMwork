@@ -40,6 +40,7 @@
 | 修复分支 | hotfix/<问题描述> | hotfix/fix-conflict |
 ## 4. 合并规则
 合并规则
+
 feature-* → dev	开发人员自合并
 
 dev → main	项目经理
