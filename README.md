@@ -31,17 +31,17 @@
 ## 4. 项目目录结构
 
 .
-├── README.md
-├── docs
-│   ├── 01-project-charter.md
-│   ├── 02-wbs.md
-│   ├── 03-schedule.md
-│   ├── 04-config-plan.md
-│   ├── 05-summary-report.md
-│   └── conflict.md
-├── src
-├── test
-└── assets
+├── README.md  
+├── docs  
+│   ├── 01-project-charter.md  
+│   ├── 02-wbs.md  
+│   ├── 03-schedule.md  
+│   ├── 04-config-plan.md  
+│   ├── 05-summary-report.md  
+│   └── conflict.md  
+├── src  
+├── test  
+└── assets  
 
 
 
