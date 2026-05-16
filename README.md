@@ -30,7 +30,7 @@
 
 ## 4. 项目目录结构
 
-.
+.  
 ├── README.md  
 ├── docs  
 │   ├── 01-project-charter.md  
